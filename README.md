@@ -10,10 +10,10 @@
 
 ### 🧠 About Me
 I build **production-grade AI systems** using LLMs, Generative AI, Machine Learning, NLP & Deep Learning.  
-Worked for **T-Mobile, Sanofi, Amazon** to deliver:
+Delivered real impact at **T-Mobile, Sanofi & Amazon**:
 - ⚡ Automated decision systems  
-- 🔬 AI for drug discovery  
-- 📦 Forecasting, routing & anomaly AI  
+- 🔬 Drug discovery AI  
+- 🚚 Logistics Forecasting & Anomaly Detection  
 
 ### 🔥 Tech Stack
 **Languages**
@@ -23,7 +23,6 @@ Worked for **T-Mobile, Sanofi, Amazon** to deliver:
 <br> <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 <img src="https://img.shields.io/badge/NLP-Transformers-blue?style=flat" />
 <img src="https://img.shields.io/badge/LLM-LangChain-red?style=flat" />
-<img src="https://img.shields.io/badge/Generative_AI-DeepLearning-orange?style=flat" />
 
 **Tools & Cloud**
 <br> <img src="https://skillicons.dev/icons?i=azure,aws,git,github,mysql" />
@@ -31,39 +30,37 @@ Worked for **T-Mobile, Sanofi, Amazon** to deliver:
 
 ---
 
+### 💼 Experience
+**🔬 Data Scientist | Capgemini (2025-Present)**  
+- LLM MCP evaluator using **Azure OpenAI + FastMCP** (T-Mobile)  
+- Chemical classifier + Siamese molecule matching (Sanofi)
+
+**📦 DS Specialist | Amazon (2019-2024)**  
+- Outlier detection for logistics  
+- Sagemaker models for delivery performance  
+- Real-time BI dashboards  
+
+---
+
 ### 📜 Certifications
-- MLOps (AWS, Azure)
-- MLflow + HuggingFace MLOps  
+- MLOps (AWS, Azure) | MLflow | HuggingFace  
 - Python for MLOps – Coursera  
-- DevOps + DataOps + MLOps
+- DevOps + DataOps + MLOps  
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Experience
+### 🚀 Featured Projects (Linked)
 
-**👨‍🔬 Data Scientist | Capgemini (2025-Present)**  
-💠 **T-Mobile:** LLM-driven MCP evaluator using **Azure OpenAI + FastMCP**  
-💠 **Sanofi:** Deep learning **chemical classifier** & **Siamese networks** for molecule similarity
-
-**📦 Data Science Specialist | Amazon (2019-2024)**  
-📌 Outlier detection for logistics  
-📌 Forecasting for peak orders  
-📌 AWS Sagemaker ML for delivery performance  
-📌 Real-time BI dashboards
-
----
-
-### 🚀 Projects
-| Project | Description |
-|--------|-------------|
-| 🤖 Career Assist LLM | Resume + cold email agent (LangGraph) |
-| 🩺 Medical RAG | LangChain + Pinecone + Flask |
-| 🔍 NER Tweets | BERT + LSTM-CRF (F1 = 0.91) |
-| 📦 Delivery ETA NN | 92% accuracy |
-| 📊 AdEase Timeseries | ROI +12% |
-| 🎬 ZEE Recommender | +25% engagement |
-| 💳 Credit Scoring | AUC 0.87 |
+| Project | Link |
+|--------|------|
+| 🤖 **Career Assist LLM Agent** | 🔗 *Coming Soon* |
+| 🩺 **Medical RAG Agent** | 🔗 https://github.com/johndoe775/Medical-chat-bot |
+| 🔍 **NER in Tweets (BERT + LSTM-CRF)** | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/nlp |
+| 📦 **Delivery Time Prediction (NN)** | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/neural%20networks |
+| 📊 **AdEase Time Series Forecasting** | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/Adease_Time_Series_Project |
+| 🎬 **ZEE Recommender System** | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/recommendation_systems |
+| 💳 **LoanTap Credit Scoring (AUC 0.87)** | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/logistic_regression |
 
 ---
 
