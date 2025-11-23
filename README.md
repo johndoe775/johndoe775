@@ -55,9 +55,12 @@ Delivered impact at **T-Mobile, Sanofi & Amazon**:
 
 ### 🚀 Featured Projects
 
+#### Financial Agents using MCP and yfinance
+created tools using mcp and yfinance that get details of a stock, alpha_beta and co relation with index
+
 #### 🤖 Career Assist LLM Agent
-Personalized resume + cold email writer using LangGraph Agents  
-🔗 *Coming Soon*
+Personalized resume + cold email writer using MCP  
+🔗 https://github.com/johndoe775/mcp-hr-work
 
 ---
 
