@@ -56,7 +56,7 @@ Delivered impact at **T-Mobile, Sanofi & Amazon**:
 ### 🚀 Featured Projects
 
 #### Financial Agents using MCP and yfinance
-created tools using mcp and yfinance that get details of a stock, alpha_beta and co relation with index
+Created tools using mcp and yfinance that get details of a stock, alpha_beta and co relation with an index.
 🔗 https://github.com/johndoe775/mcp_tools
 
 #### 🤖 Career Assist LLM Agent
