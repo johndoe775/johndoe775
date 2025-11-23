@@ -1,93 +1,110 @@
-# Dinesh Sagar - Data Analyst & Data Scientist
+<!-- Banner -->
+<h1 align="center">👨‍💻 Dinesh Sagar | Data Scientist & Generative AI Engineer</h1>
+<p align="center">
+  🚀 Building AI that thinks, predicts & automates | 🌐 Currently at <b>Capgemini</b>
+</p>
 
-I'm a highly motivated Data Analyst and aspiring Data Scientist with a passion for leveraging data to drive impactful business decisions. My projects showcase proficiency in Python, SQL, and various machine learning techniques, including time series analysis, natural language processing, and recommendation systems. I excel at building interactive dashboards using Tableau and Power BI to communicate data-driven insights effectively. My experience at Amazon has further honed my skills in analyzing large datasets and developing machine learning models to optimize operations.
+---
 
-## Skills
+### 🧠 **About Me**
 
-### Data Analyst
+I develop **production-grade AI systems** using LLMs, Generative AI, Machine Learning, NLP & Deep Learning.  
+I’ve delivered real business impact at **T-Mobile, Sanofi, and Amazon**, building systems that **automate decisions, forecast demand, detect anomalies, and accelerate drug discovery**.
 
-* Python
-* SQL
-* Tableau
-* Power BI
-* Statistics and Hypothesis Testing
+---
 
-### Data Scientist
+### 🔥 **Tech Stack**
 
-* NumPy
-* Pandas
-* Scikit-learn
-* Machine Learning (Supervised Learning, Unsupervised Learning, Time Series, Recommendation Systems, Neural Networks, Computer Vision, NLP)
-* TensorFlow
-* Keras
-* Streamlit
-* Flask
-* Generative AI
-* LangChain
-* Vertex AI
-* AWS Sagemaker
+#### 🖥️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-## Projects
+#### 🤖 ML & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /> 
+  <img src="https://img.shields.io/badge/NLP-Transformers-blue?logo=protobuf&style=flat" />
+  <img src="https://img.shields.io/badge/LLM-LangChain-red?logo=OpenAI&style=flat" />
+  <img src="https://img.shields.io/badge/Generative_AI-DeepLearning-orange?logo=OpenAI&style=flat" />
+</p>
 
-### Generative AI Powered Data Assistants
+#### 🛠 Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,git,github,mysql" />
+  <img src="https://img.shields.io/badge/PowerBI-Business_Intelligence-yellow?logo=powerbi&style=flat" />
+</p>
 
-* **Medical RAG Agent:** Developed a medical chatbot using Pinecone DB and Flask to provide real-time, context-driven medical answers.
-* **RAG Agent with ChromaDB:** Built an intelligent recommendation system using ChromaDB for enhanced content discovery and reranking based on user queries.
-* **CSV Command Agent:** Created an AI-powered tool that simplifies data operations for non-technical users by enabling natural language manipulation of CSV files and SQL query generation.
+---
 
-### Named Entity Recognition (NER) in Tweets
+### 💼 **Experience**
 
-* Developed a robust NER system for tweets using LSTM-CRF and BERT models, achieving high accuracy on real-world data.
-* Utilized Word2Vec embeddings and fine-tuned BERT for optimized entity detection.
+#### 👨‍🔬 Data Scientist | Capgemini *(Jan 2025 - Present)*  
+💠 **T-Mobile:**  
+✔ Built LLM-driven MCP tools using **Azure OpenAI + FastMCP** to evaluate chatbot accuracy with an AI judge.  
 
-### Delivery Time Estimation for Porter's Delivery Service
+💠 **Sanofi:**  
+✔ Built a deep learning **chemical structure classifier** for drug discovery.  
+✔ Designed **Siamese Network for molecule similarity & reaction completion prediction**.
 
-* Built a neural network model using TensorFlow and Keras to accurately predict delivery times, enhancing service quality and operational efficiency.
-* Performed comprehensive data cleaning, feature engineering, and categorical encoding.
+---
 
-### ZEE Recommendation System
+#### 📦 Data Science Specialist | Amazon *(Dec 2019 – Dec 2024)*  
+📌 Built:
+- Outlier detection improving logistics accuracy
+- Forecasting models for peak orders
+- ML models in **AWS Sagemaker** for delivery agent performance
+- Real-time BI dashboards used across operations
 
-* Implemented a movie recommender system using collaborative filtering and matrix factorization techniques.
-* Utilized user-user and item-item similarity with Cosine and Pearson methods.
+---
 
-### Graduate Admissions Prediction
+### 🚀 **Featured Projects**
 
-* Developed accurate linear regression models (R2 > 0.8) to predict graduate admissions, providing actionable insights for Jamboree.
-* Implemented Ridge and Lasso regularizations for model optimization.
+| Project | Description | Link |
+|--------|-------------|------|
+| 🤖 **Career Assist LLM Agent** | Personalized resume & cold email generator using MCP | 🔗 https://github.com/johndoe775/mcp-hr-work |
+| 🩺 **Medical RAG Agent** | LangChain + Pinecone + Flask | 🔗 https://github.com/johndoe775/Medical-chat-bot |
+| 🔍 **NER in Tweets (BERT + LSTM-CRF)** | F1 = 0.91 | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/nlp |
+| 📦 **Delivery Time Prediction (NN)** | 92% accuracy on 1M rows | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/neural%20networks |
+| 📊 **AdEase Time Series Forecasting** | 12% ROI gain using ARIMA, SARIMAX, Prophet | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/Adease_Time_Series_Project |
+| 🎬 **ZEE Recommender System** | +25% Engagement | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/recommendation_systems |
+| 💳 **LoanTap Credit Scoring (AUC 0.87)** | 20% reduction in false approvals | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/logistic_regression |
 
-### LoanTap Creditworthiness Model
+---
 
-* Developed a Logistic Regression model for LoanTap to assess creditworthiness, achieving a high AUC score.
-* Analyzed precision-recall tradeoffs and provided insights for improved loan decisions.
+### 📜 **Certifications**
+📌 **MLOps (AWS SageMaker, Azure ML)**  
+📌 **MLflow, Hugging Face MLOps**  
+📌 **Python for MLOps – Coursera**  
+📌 **DevOps + DataOps + MLOps**
 
-### Netflix Content Analysis for Growth
+---
 
-* Analyzed Netflix content using visualizations to identify key audience preferences and inform growth strategies.
+### 🎓 **Education**
+🎓 **Scaler (2024)**  
+🎓 **B.Tech | CBIT (2019)**  
 
-### Store and Promotion Offers Performance Analysis for Atliq
+---
 
-* Built interactive Power BI dashboards to track key performance indicators (IR, ISU) and optimize promotional campaigns.
+### 📊 **GitHub Profile Stats**
 
-### City-Level Trip Analysis & Performance Dashboard for Goodcabs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johndoe775&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe775&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe775&layout=compact&theme=tokyonight" />
+</p>
 
-* Developed Power BI dashboards to analyze trip data and identify growth opportunities, resulting in a 12% increase in repeat passenger rates.
+---
 
-### E-commerce Trend Analysis for Target in Brazil
+### 🤝 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/dineshsagar643/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+</p>
 
-* Used SQL to analyze e-commerce data and uncover insights on customer demographics, payment patterns, and regional trends.
+---
 
-### Ride Optimization Strategy for Uber
+🚀 *If you like my work, feel free to ⭐ my repositories!*
 
-* Developed a Python-based strategy to reduce ride cancellations and improve car availability, boosting service reliability by 4%.
-
-## Interests
-
-* Building intelligent systems using generative AI and large language models.
-* Developing robust and accurate machine learning models for real-world applications.
-* Exploring new data visualization techniques to effectively communicate complex data insights.
-* Optimizing business processes through data-driven decision making.
-
-
-## Happy to connect
-
-* linkedin:dineshsagar643
