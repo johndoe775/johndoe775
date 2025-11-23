@@ -38,7 +38,7 @@ I’ve delivered real business impact at **T-Mobile, Sanofi, and Amazon**, build
 
 ### 💼 **Experience**
 
-#### 👨‍🔬 Data Scientist | Capgemini *(Jan 2025 - Present)*  
+#### 👨‍🔬 Data Scientist | Capgemini *(Feb 2025 - Present)*  
 💠 **T-Mobile:**  
 ✔ Built LLM-driven MCP tools using **Azure OpenAI + FastMCP** to evaluate chatbot accuracy with an AI judge.  
 
@@ -48,7 +48,7 @@ I’ve delivered real business impact at **T-Mobile, Sanofi, and Amazon**, build
 
 ---
 
-#### 📦 Data Science Specialist | Amazon *(Dec 2019 – Dec 2024)*  
+#### 📦 Data Science Specialist | Amazon *(Jan 2020 – Dec 2024)*  
 📌 Built:
 - Outlier detection improving logistics accuracy
 - Forecasting models for peak orders
