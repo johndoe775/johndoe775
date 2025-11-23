@@ -1,111 +1,89 @@
-<!-- Banner -->
+<!-- Profile Header -->
 <h1 align="center">👨‍💻 Dinesh Sagar | Data Scientist & Generative AI Engineer</h1>
+<p align="center">🚀 Building AI that thinks, predicts & automates | 🌐 <b>Capgemini</b></p>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 About Me
+I build **production-grade AI systems** using LLMs, Generative AI, Machine Learning, NLP & Deep Learning.  
+Worked for **T-Mobile, Sanofi, Amazon** to deliver:
+- ⚡ Automated decision systems  
+- 🔬 AI for drug discovery  
+- 📦 Forecasting, routing & anomaly AI  
+
+### 🔥 Tech Stack
+**Languages**
+<br> <img src="https://skillicons.dev/icons?i=python" />
+
+**ML & AI**
+<br> <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://img.shields.io/badge/NLP-Transformers-blue?style=flat" />
+<img src="https://img.shields.io/badge/LLM-LangChain-red?style=flat" />
+<img src="https://img.shields.io/badge/Generative_AI-DeepLearning-orange?style=flat" />
+
+**Tools & Cloud**
+<br> <img src="https://skillicons.dev/icons?i=azure,aws,git,github,mysql" />
+<img src="https://img.shields.io/badge/PowerBI-BI-yellow?style=flat" />
+
+---
+
+### 📜 Certifications
+- MLOps (AWS, Azure)
+- MLflow + HuggingFace MLOps  
+- Python for MLOps – Coursera  
+- DevOps + DataOps + MLOps
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Experience
+
+**👨‍🔬 Data Scientist | Capgemini (2025-Present)**  
+💠 **T-Mobile:** LLM-driven MCP evaluator using **Azure OpenAI + FastMCP**  
+💠 **Sanofi:** Deep learning **chemical classifier** & **Siamese networks** for molecule similarity
+
+**📦 Data Science Specialist | Amazon (2019-2024)**  
+📌 Outlier detection for logistics  
+📌 Forecasting for peak orders  
+📌 AWS Sagemaker ML for delivery performance  
+📌 Real-time BI dashboards
+
+---
+
+### 🚀 Projects
+| Project | Description |
+|--------|-------------|
+| 🤖 Career Assist LLM | Resume + cold email agent (LangGraph) |
+| 🩺 Medical RAG | LangChain + Pinecone + Flask |
+| 🔍 NER Tweets | BERT + LSTM-CRF (F1 = 0.91) |
+| 📦 Delivery ETA NN | 92% accuracy |
+| 📊 AdEase Timeseries | ROI +12% |
+| 🎬 ZEE Recommender | +25% engagement |
+| 💳 Credit Scoring | AUC 0.87 |
+
+---
+
+### 💻 GitHub Stats
 <p align="center">
-  🚀 Building AI that thinks, predicts & automates | 🌐 Currently at <b>Capgemini</b>
+<img src="https://github-readme-stats.vercel.app/api?username=johndoe775&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe775&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-### 🧠 **About Me**
-
-I develop **production-grade AI systems** using LLMs, Generative AI, Machine Learning, NLP & Deep Learning.  
-I’ve delivered real business impact at **T-Mobile, Sanofi, and Amazon**, building systems that **automate decisions, forecast demand, detect anomalies, and accelerate drug discovery**.
-
----
-
-### 🔥 **Tech Stack**
-
-#### 🖥️ Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-#### 🤖 ML & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /> 
-  <img src="https://img.shields.io/badge/NLP-Transformers-blue?logo=protobuf&style=flat" />
-  <img src="https://img.shields.io/badge/LLM-LangChain-red?logo=OpenAI&style=flat" />
-  <img src="https://img.shields.io/badge/Generative_AI-DeepLearning-orange?logo=OpenAI&style=flat" />
-</p>
-
-#### 🛠 Tools & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,git,github,mysql" />
-  <img src="https://img.shields.io/badge/PowerBI-Business_Intelligence-yellow?logo=powerbi&style=flat" />
-</p>
-
----
-
-### 💼 **Experience**
-
-#### 👨‍🔬 Data Scientist | Capgemini *(Jan 2025 - Present)*  
-💠 **T-Mobile:**  
-✔ Built LLM-driven MCP tools using **Azure OpenAI + FastMCP** to evaluate chatbot accuracy with an AI judge.  
-
-💠 **Sanofi:**  
-✔ Built a deep learning **chemical structure classifier** for drug discovery.  
-✔ Designed **Siamese Network for molecule similarity & reaction completion prediction**.
-
----
-
-#### 📦 Data Science Specialist | Amazon *(Dec 2019 – Dec 2024)*  
-📌 Built:
-- Outlier detection improving logistics accuracy
-- Forecasting models for peak orders
-- ML models in **AWS Sagemaker** for delivery agent performance
-- Real-time BI dashboards used across operations
-
----
-
-### 🚀 **Featured Projects**
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 💰 **MCP Finance Tools (LLM + FastMCP + yFinance)** | Built financial analysis agents using **FastMCP  + yFinance**, enabling natural-language stock research,  alpha_beta calculation and portfolio analyzer. | 🔗 https://github.com/johndoe775/mcp_tools |
-| 🤖 **Career Assist LLM Agent** | Personalized resume & cold email generator using MCP | 🔗 https://github.com/johndoe775/mcp-hr-work |
-| 🩺 **Medical RAG Agent** | LangChain + Pinecone + Flask | 🔗 https://github.com/johndoe775/Medical-chat-bot |
-| 🔍 **NER in Tweets (BERT + LSTM-CRF)** | F1 = 0.91 | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/nlp |
-| 📦 **Delivery Time Prediction (NN)** | 92% accuracy on 1M rows | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/neural%20networks |
-| 📊 **AdEase Time Series Forecasting** | 12% ROI gain using ARIMA, SARIMAX, Prophet | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/Adease_Time_Series_Project |
-| 🎬 **ZEE Recommender System** | +25% Engagement | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/recommendation_systems |
-| 💳 **LoanTap Credit Scoring (AUC 0.87)** | 20% reduction in false approvals | 🔗 https://github.com/johndoe775/machine-learning-/tree/main/logistic_regression |
-
----
-
-### 📜 **Certifications**
-📌 **MLOps (AWS SageMaker, Azure ML)**  
-📌 **MLflow, Hugging Face MLOps**  
-📌 **Python for MLOps – Coursera**  
-📌 **DevOps + DataOps + MLOps**
-
----
-
-### 🎓 **Education**
-🎓 **Scaler (2024)**  
-🎓 **B.Tech | CBIT (2019)**  
-
----
-
-### 📊 **GitHub Profile Stats**
-
+### 🤝 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe775&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe775&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe775&layout=compact&theme=tokyonight" />
+<a href="https://www.linkedin.com/in/dineshsagar643/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 **Connect With Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/dineshsagar643/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
-</p>
-
----
-
-🚀 *If you like my work, feel free to ⭐ my repositories!*
-
+<p align="center">⭐ If you like my work, consider giving a star!</p>
