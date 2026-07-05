@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👨‍💻 Dinesh Sagar | Data Scientist & Generative AI Engineer</h1>
-<p align="center">🚀 Building AI that thinks, predicts & automates | 🌐 <b>Capgemini</b></p>
+<p align="center">🚀 Building AI that thinks, predicts & automates | 🌐 <b>Deloitte</b></p>
 
 ---
 
