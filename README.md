@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 I build **production-grade AI systems** using LLMs, Generative AI, Machine Learning, NLP & Deep Learning.  
-Delivered impact at **T-Mobile, Sanofi & Amazon**:
+Delivered impact at **Coupa,T-Mobile, Sanofi & Amazon**:
 - ⚡ Automated decision evaluation with LLMs  
 - 🔬 AI for drug discovery and molecule similarity  
 - 🚚 Real-time logistics forecasting & anomaly detection  
