@@ -33,7 +33,11 @@ Delivered impact at **Coupa,T-Mobile, Sanofi & Amazon**:
 ---
 
 ### 💼 Experience
-**🔬 Data Scientist | Capgemini (2025–Present)**  
+
+**🔬 AI Engineer | Deloitte (2026-Present)**  
+- Federated Search using google adk and deployment on gemini enterprise
+  
+**🔬 Data Scientist | Capgemini (2025–2026)**  
 - LLM MCP evaluator using **Azure OpenAI + FastMCP** (T-Mobile)  
 - Deep learning **chemical classifier + Siamese networks** (Sanofi)
 
