@@ -27,7 +27,7 @@ Delivered impact at **Coupa,T-Mobile, Sanofi & Amazon**:
 <img src="https://img.shields.io/badge/LLM-LangChain-red?style=flat" />
 
 **☁️ Tools & Cloud**  
-<img src="https://skillicons.dev/icons?i=azure,aws,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,git,github,mysql" />
 <img src="https://img.shields.io/badge/PowerBI-BI-yellow?style=flat" />
 
 ---
